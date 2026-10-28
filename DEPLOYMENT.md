@@ -1,7 +1,7 @@
 # Deployment Process
 
 ## Frontend (Vercel)
-- **URL**: https://YOUR-APP.vercel.app
+- **URL**: https://week-11-day-3-assignment-six.vercel.app/
 - **Trigger**: Auto-deploys on every push to `main`
 - **Build command**: `npm run build` (copies `frontend/` to `dist/` and writes `dist/config.js`)
 - **Output directory**: `dist`
