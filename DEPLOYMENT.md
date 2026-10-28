@@ -61,7 +61,7 @@ How the team uses them:
 3. Reviewers open the preview and test the exact code before approving the merge.
 4. The preview talks to the production API unless you set a separate `API_URL` for the Preview environment in Vercel (Settings > Environment Variables).
 
-- **Preview URL for my PR**: https://YOUR-PREVIEW-URL.vercel.app
+- **Preview URL for my PR**: week-11-day-3-assignment-six.vercel.app
 
 ## Evidence (screenshots)
 Save screenshots in `docs/screenshots/` and link them here.
